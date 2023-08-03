@@ -15,16 +15,16 @@ Duplicates I Have
 Live! Show By Rock! 
 ------
 
-###Fashion Dupes
+### Fashion Dupes
 
-####SR
+#### SR
 3x Let’s Rock Out Tonight Cyan Curly Bob
 
-####R
+#### R
 1x Glittering Stage Lights Cyan Eyes
 2x Together in the Sparkling World Retoree Eyes
 
-####N
+#### N
 1x I’m Here to Rock You Cyan Dress
 2x Thank You for Waiting Everyone Retoree Dress
 2x Legendary Guitar Strawberry Heart
@@ -33,12 +33,12 @@ Live! Show By Rock!
 1x This Feeling Just Won’t Stop Cyan Shoes
 2x Deliver this Tune to the World Retoree Boots
 
-###Interior Dupes
+### Interior Dupes
 
-####L
+#### R
 1x HSD First Stage Plasmagica LIVE Melody
 
-####N
+#### N
 1x Enthusiastic Fans Waiting for the Show
 2x DJ Kuromi on the 1’s & 2’s
 2x First Stage!! Plasmagica LIVE Floor
@@ -54,16 +54,16 @@ Live! Show By Rock!
 Cast a Magic Spell JEWELPET 
 ------
 
-###Fashion Dupes
+### Fashion Dupes
 
-####SR
+#### SR
 2x I’m a Magician Magical Swirling Pigtails
 
-####R
+#### R
 4x We Will Always Be with You JEWELPET
 2x Let’s Defeat the Villains! Magician Dress
 
-####N
+#### N
 2x It’s a Secret that I’m a Magician! Sailor Top
 2x Secretly Protecting Everyone Pleated Skirt
 3x Power of Love Secret Magic Ribbon
@@ -73,12 +73,12 @@ Cast a Magic Spell JEWELPET
 1x Overcoming Any Adversity Justice Boots
 2x Wishing for Everyone’s Peace Pink Loafers
 
-###Interior Dupes
+### Interior Dupes
 
-####R
+#### R
 1x Enchanting Me with a Magic Jewel Bed
 
-####N
+#### N
 1x Cast a Magic Spell JEWELPET Floor
 2x Make Your Wish Come True Secret Brooch Door
 1x Filled with Secrets Jewel Box Key
@@ -94,14 +94,14 @@ Cast a Magic Spell JEWELPET
 I Love Keroppi Selection
 ------
 
-###Fashion Dupes
+### Fashion Dupes
 
-####N
+#### N
 1x Goldfish Bowl in Your Hands Bag
 
-###Interior Dupes
+### Interior Dupes
 
-####N
+#### N
 1x Take a Rest with Keroppi on the Clover Chair
 1x Long Garden Boots Bed
 5x 2023 Keroppi Birthday Cupcake
@@ -115,49 +115,49 @@ Wishlist
 Cast a Magical Spell JEWELPET
 ------
 
-###Fashion
+### Fashion
 
-####SSR
+#### SSR
 Give Me Strength Select Extensions
 
-####SR
-Magical Transformation Heart Ribbon Brooch
+#### SR
+Magical Transformation Heart Ribbon Brooch**
 
-####R*
+#### R*
 Sharing Magic Power with Ruby on Your Head
 
 
 Setsubun fest GAME in Virtual Town
 ------
 
-###Fashion
+### Fashion
 
-####SR
+#### SR
 The MVP's Paint Bullet Eyes**
 
 
 Beatcats In Your Heart
 ------
 
-###Fashion
+### Fashion
 
-####R
+#### R
 Beatcats In Your Heart**
 Playful Little Kitten Embroidered Dress
 Playful Little Silver Kitten Ensemble
 Playful Little Silver Kitten Paws
 
-####N
+#### N
 Playful Alice-Inspired Pinafore Dress
 Dark Roses in the Forest of Hearts
 Playful Little Kitten Embroidered Pumps
 Chameleon Playful Little Kitten Ensemble
 
-###Interior
+### Interior
 
-####SR
+#### SR
 Forest of Hearts Topiary Flower
 Beatcats In Your Heart Wall
 
-####R
+#### R
 Beatcats In Your Heart Melody
